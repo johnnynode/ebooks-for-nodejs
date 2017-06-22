@@ -23,4 +23,4 @@
 - [Node即学即用(linuxidc.com).pdf](https://raw.githubusercontent.com/johnnynode/ebooks-nodejs/master/Node即学即用(linuxidc.com).pdf)
 - [Node即学即用.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-nodejs/master/Node即学即用.pdf)
 - [Web-Development-with-Node-and-Express.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-nodejs/master/Web-Development-with-Node-and-Express.pdf)
-- [深入浅出node.js.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-nodejs/master/深入浅出node.js.pdf)
+- [深入浅出nodejs.pdf](https://raw.githubusercontent.com/johnnynode/ebooks-nodejs/master/深入浅出nodejs.pdf)
